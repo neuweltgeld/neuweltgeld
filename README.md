@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><br><br>
+<ul>
+<li>🔭 I’m currently working on node running and testnets</li>
+<li>🌱 I’m currently learning Deutsch! Es ist schwer zu lernen aber man kann alles</li>
+<li>👯 I’m looking to collaborate with other content creators  </li>
+<li>⚡ Fun fact: I ❤️ GAMING  </li>
+</ul>
+
+<br><br>
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
