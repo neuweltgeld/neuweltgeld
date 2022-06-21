@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <br>
 
-[![forthebadge](https://github.com/neuweltgeld/badge/blob/main/fener-bah%C3%A7e.svg)](https://fenerbahce.org)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/neuweltgeld/) 
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/neuweltgeld/badge/blob/main/fener-bah%C3%A7e.svg)](https://fenerbahce.org)<br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/neuweltgeld/) <br>
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)<br>
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)<br>
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
