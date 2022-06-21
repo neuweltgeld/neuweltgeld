@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><br><br>
+--><br>
 <ul>
 <li>🔭 I’m currently working on node running and testnets</li>
 <li>🌱 I’m currently learning Deutsch! Es ist schwer zu lernen aber man kann alles</li>
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <li>⚡ Fun fact: I ❤️ GAMING  </li>
 </ul>
 
-<br><br>
+<br>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
