@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <li>🌱 I’m currently learning Deutsch! Es ist schwer zu lernen aber man kann alles</li>
 <li>👯 I’m looking to collaborate with other content creators  </li>
 <li>⚡ Fun fact: I ❤️ GAMING  </li>
+<li>💬 Kujira Mainnet Validator </li>
+<li>💬 Forta Runner </li> 
 </ul>
 
 <br>
