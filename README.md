@@ -1,6 +1,3 @@
-# <p align="center"> 🆓❤️ </p>
-# <p align="center"> [As soon as you sign up using my personal link, you will receive €⁠20 in cloud credits.](https://hetzner.cloud/?ref=JuTz7XhE0hpU) </p>
-
 # 💫 About Me:
 🎉 Fan of Fenerbahçe SK<br>🔭 I’m currently working on node running and testnets<br>🌱 I’m currently learning Deutsch! Es ist schwer zu lernen aber man kann alles<br>👯 I’m looking to collaborate with other content creators<br>⚡ Fun fact: I ❤️ GAMING
 
