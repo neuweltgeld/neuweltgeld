@@ -2,7 +2,7 @@
 🎉 Fan of Fenerbahçe SK<br>🔭 I’m currently working on node running and testnets<br>🌱 I’m currently learning Deutsch! Es ist schwer zu lernen aber man kann alles<br>👯 I’m looking to collaborate with other content creators<br>⚡ Fun fact: I ❤️ GAMING
 
 # ⚡ Projects I participated in and contributed to:
-Celestia Light Node, Aptos, Sui, Sei, Kujira, Paloma, Quicksilver, Humanode, Stafi, Teritori, Stride, Stratos, Ziesha, Empowerchain, Neutron, Dusk, Minima, Gitopia, Gitshock, Opside, Andromeda, Cascadia, Flee, Sarcophagus, Q-Blockchain 
+Celestia , Mina Protocol , Dymension, Opside, Aptos, Sui, Sei, Kujira, Paloma, Quicksilver, Humanode, Stafi, Teritori, Stride, Stratos, Ziesha, Empowerchain, Neutron, Dusk, Minima, Gitopia, Gitshock, Andromeda, Cascadia, Fleek, Sarcophagus, Q-Blockchain, WormholesChain
 ... new ones will be added continuously
 
 
