@@ -2,7 +2,7 @@
 🎉 Fan of Fenerbahçe SK<br>🔭 I’m currently working on node running and testnets<br>🌱 I’m currently learning Deutsch! Es ist schwer zu lernen aber man kann alles<br>👯 I’m looking to collaborate with other content creators<br>⚡ Fun fact: I ❤️ GAMING
 
 # ⚡ Projects I participated in and contributed to:
-Celestia (Blockspacerace Light Node) , Mina Protocol (Block Producer) , Dymension, Opside, Aptos, Sui, Sei, Kujira, Paloma, Quicksilver, Humanode, Stafi, Teritori, Stride, Stratos, Ziesha, Empowerchain, Neutron, Dusk, Minima, Gitopia, Gitshock, Andromeda, Cascadia, Fleek, Sarcophagus, Q-Blockchain, WormholesChain, PowerAgent, Ar.io, Voi, Over, Powerloom, Webb
+Celestia (Blockspacerace Light Node) , Avail Kate-Goldberg-Turing, AO, Lava, Mina Protocol (Block Producer) , Dymension, Opside, Aptos, Sui, Sei, Kujira, Paloma, Quicksilver, Humanode, Stafi, Teritori, Stride, Stratos, Ziesha, Empowerchain, Neutron, Dusk, Minima, Gitopia, Gitshock, Andromeda, Cascadia, Fleek, Sarcophagus, Q-Blockchain, WormholesChain, PowerAgent, Ar.io, Voi, Over, Powerloom, Webb
 
 ... new ones will be added continuously
 
